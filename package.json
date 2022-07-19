@@ -1,0 +1,19 @@
+{
+  "name": "feedback-app",
+  "version": "1.0.0",
+  "description": "An app that can be used to send mass emails to a big list of users for the purpose of collecting feedback.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FONS127/feedback-app.git"
+  },
+  "author": "FONS127",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FONS127/feedback-app/issues"
+  },
+  "homepage": "https://github.com/FONS127/feedback-app#readme"
+}
